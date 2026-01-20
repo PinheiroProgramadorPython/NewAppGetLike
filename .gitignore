@@ -1,0 +1,8 @@
+.venv/
+perfil_chrome/
+backup/
+myBank/
+secrets/
+logs/
+app/__pycache__/
+chrome/
